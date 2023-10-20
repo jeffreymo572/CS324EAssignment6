@@ -10,5 +10,6 @@ The second simulation will feature particles moving across the screen through a 
 
 <img src="PerlinNoiseUML.png" alt="UML" width="800"/>
 
-# Simulation 3:
-(Tarun's)
+# Simulation 3: Fireworks
+
+The third stimulation will feature particles moving across the screen and act as fireworks.  The simulation will keep producing fireworks either by mouse clicks or continuously generated.  The two forces/rules that will guide object behavior are gravity and the initial explosion force. I think the initial explosion force will be randomly generated to help create fireworks with different heights and sizes. The colors of the fireworks will also be randomly generated to create a more authentic look. Each firework will be a collection of individual particles with each particle having its own attributes.
